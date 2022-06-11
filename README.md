@@ -1,2 +1,0 @@
-# CloudComputingCommunity
-CloudComputing Korea Community
